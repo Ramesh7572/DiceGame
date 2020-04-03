@@ -17,7 +17,7 @@ import java.util.Random;
 public class MainActivity extends AppCompatActivity {
 
     ImageView iv_dice_p1, iv_dice_p2, iv_lives_p1, iv_lives_p2;
-    TextView tv_player_1, tv_player_2;
+    TextView tv_player_1, tv_player_2,tv_dice1;
 
     Random r;
 
